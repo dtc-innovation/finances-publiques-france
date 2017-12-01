@@ -11,7 +11,7 @@ Ce travail a permis de révéler l'existence de fichiers XML générés et manip
 * le patrimoine
 * les personnels
 
-Il est plausible qu'à terme, toutes les collectvités publiques fournissent ces fichiers en open data.
+Il est plausible qu'à terme, toutes les collectivités publiques fournissent ces fichiers en open data. [Tout citoyen est en droit de leur demander](https://github.com/dtc-innovation/finances-publiques-france/issues/2)
 
 Ce repo est un meta-projet qui vise à lister toutes les idées d'exploitation de ces données si elles étaient accessibles. 
 
